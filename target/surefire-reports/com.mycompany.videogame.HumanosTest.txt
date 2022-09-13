@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.videogame.HumanosTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.337 s <<< FAILURE! - in com.mycompany.videogame.HumanosTest
+testSetVida  Time elapsed: 0.154 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.videogame.Humanos.setVida(int, int)" because "instance" is null
+	at com.mycompany.videogame.HumanosTest.testSetVida(HumanosTest.java:76)
+
